@@ -1,4 +1,5 @@
 # Norm4J Project
+
 Norm4J contributes to standarize APIs on different kind of business case (Addresses, ... to be completed... )
 
 # Requirements
@@ -7,8 +8,7 @@ For building the application you may need :
 - Maven 3
 
 # Running the application locally
-From your favorite IDE :
-...
 
-From command line :
-... 
+From maven :
+
+	mvn clean package spring-boot:run 
